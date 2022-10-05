@@ -16,3 +16,18 @@ button{
 #save-btn{
     background: gray;
 }
+
+.navbar{
+    float: right;
+    text-decoration: none;
+    padding: 15px 17px;
+    text-align: center;
+    color: black;
+    background-color: dimgray;
+
+}
+.navbar:hover{
+    background-color: gray;
+    color: white;
+}
+

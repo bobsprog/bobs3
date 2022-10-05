@@ -14,6 +14,12 @@ function save(){
 }
 
 
+if (countEl>45){
+    alert("It is full");
+}
+
+
+
 
 
 
